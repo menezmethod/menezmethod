@@ -1,6 +1,6 @@
 <a href="https://gimenez.dev" target="_blank"><img src="https://github.com/menezmethod/menezmethod/blob/master/githead.gif?raw=true" /></a>
 
-# :man: Hi, my name is Luis Gimenez.
+# Hi, my name is Luis Gimenez.
 
 I build digital experiences. I'm a software developer located in Denver who focuses in creating (and occasionally
 designing) amazing applications for the web. Currently, I'm searching for exciting work opportunities with a
@@ -26,7 +26,6 @@ forward-thinking organization.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
