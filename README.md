@@ -1,6 +1,6 @@
 <a href="https://gimenez.dev" target="_blank"><img src="https://github.com/menezmethod/menezmethod/blob/master/githead.gif?raw=true" /></a>
 
-#🤝🏻 Hi, my name is Luis Gimenez.
+# 🤝🏻 Hi, my name is Luis Gimenez.
 
 I build digital experiences. I'm a software developer located in Denver who focuses in creating (and occasionally
 designing) amazing applications for the web. Currently, I'm searching for exciting work opportunities with a
@@ -10,7 +10,7 @@ forward-thinking organization.
 - 📝 I am currently learning Web3, TensorFlow, Keras and other cutting edge technologies.
 - 🎵🏕️️✈️ I love music (DJ / Produce), outdoors and traveling.
 
-##🛠️ I work with these tools:
+## 🛠️ I work with these tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,8 +36,8 @@ forward-thinking organization.
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-###👉 Get in touch:
+### 👉 Get in touch:
  ![Twitter](https://img.shields.io/badge/luisgimenezdev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimenezdev/) [![YouTube](https://img.shields.io/badge/Luis-Gimenez-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChLjk8fPdI7DgKVHi7y2sLg) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgimenezdev@gmail.com)
 
-####⬇️ Check out my repos:
+#### :arrow_down: Check out my repos:
 
