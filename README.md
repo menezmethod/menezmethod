@@ -10,7 +10,7 @@ forward-thinking organization.
 - :book: I am currently learning Web3, TensorFlow, Keras and other cutting edge technologies.
 - :musical_note: :sunrise_over_mountains: :airplane: I love music (DJ / Produce), outdoors and traveling.
 
-## :wrench: I work with these tools:
+## :wrench: I use the following tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
