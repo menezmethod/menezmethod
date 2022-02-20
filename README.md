@@ -6,7 +6,7 @@ I build digital experiences. I'm a software developer located in Denver who focu
 designing) amazing applications for the web. Currently, I'm searching for exciting work opportunities with a
 forward-thinking organization.
 
-- :computer: Currently working on [kiwibug_frontend](https://github.com/menezmethod/kiwibug_frontend) using React (TypeScript).
+- :computer: Currently working on [KiwiBug Issue Tracking System](https://github.com/menezmethod/kiwibug_frontend) using React (TypeScript) for the front-end & Spring Boot / Security for the back-end..
 - :book: I am currently learning Web3, TensorFlow, Keras and other cutting edge technologies.
 - :musical_note: :sunrise_over_mountains: :airplane: I love music (DJ / Produce), outdoors and traveling.
 
