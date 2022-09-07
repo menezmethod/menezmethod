@@ -3,8 +3,7 @@
 # Hi, my name is Luis Gimenez.
 
 I build digital experiences. I'm a software developer located in Orlando who focuses in creating (and occasionally
-designing) amazing applications for the web. Currently, I'm searching for exciting work opportunities with a
-forward-thinking organization. [Check out my resume.](https://github.com/menezmethod/lgportfolio/blob/master/src/assets/Resume-Luis-Gimenez.pdf)
+designing) amazing applications for the web. 
 
 - :computer: Currently working on [Issue Tracking System](https://github.com/menezmethod/kiwibug_frontend) using React (TypeScript) front-end & Spring Boot / Security back-end.
 - :book: I am currently learning Web3, TensorFlow, Keras and other cutting edge technologies.
