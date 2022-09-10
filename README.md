@@ -5,7 +5,7 @@
 I build digital experiences. I'm a software developer located in Orlando who focuses in creating (and occasionally
 designing) amazing applications for the web. 
 
-- :computer: Currently working on [Issue Tracking System](https://github.com/menezmethod/kiwibug_frontend) using React (TypeScript) front-end & Spring Boot / Security back-end.
+  - :computer: Currently working on a [Trading Journal](https://github.com/menezmethod/st-client) using React (TypeScript) for the front-end & Go for the [back-end microservices](https://github.com/menezmethod/st-server).
 - :book: I am currently learning Web3, TensorFlow, Keras and other cutting edge technologies.
 - :musical_note: :sunrise_over_mountains: :airplane: I love music (DJ / Produce), outdoors and traveling.
 
