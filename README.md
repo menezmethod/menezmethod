@@ -1,5 +1,3 @@
-<a href="https://gimenez.dev" target="_blank"><img src="https://github.com/menezmethod/menezmethod/blob/master/githead.gif?raw=true" /></a>
-
 # Hi, my name is Luis Gimenez (MenezMethod).
 
 I build digital experiences. I'm a software developer located in Orlando who focuses in creating (and occasionally
