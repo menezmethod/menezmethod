@@ -3,7 +3,7 @@
 I build digital experiences. I'm a software developer located in Orlando who focuses in creating (and occasionally
 designing) amazing applications for the web. 
 
-  - :computer: Currently working on [Churnistic](https://github.com/menezmethod/churnistic), a modern credit card churning and bank bonus tracking platform using Next.js and other languages for microservices around it.
+  - :computer: Personal Project: Currently working on Churnistic, a modern personal project for credit card churning and bank bonus tracking platform using Next.js and other languages for microservices around it.
 - :musical_note: :sunrise_over_mountains: :airplane: I love music (DJ / Produce), outdoors and traveling.
 
 ## :wrench: I use the following tools:
