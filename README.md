@@ -12,8 +12,6 @@ Building **Go payment infrastructure** at Fortune 50 scale. GCP-certified. OpenT
 
 [**inferencia**](https://github.com/menezmethod/inferencia) — Go-based LLM router that proxies chat, embeddings, and TTS to multiple backends. Capability-based routing, streaming, self-hosted on a Pi 5.
 
-[**churnistic**](https://github.com/menezmethod/churnistic) — Credit card churning and bank bonus tracking platform. TypeScript, React, real-time analytics.
-
 ---
 
 [github.com/menezmethod](https://github.com/menezmethod)
