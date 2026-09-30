@@ -1,21 +1,27 @@
 ## Luis Gimenez
 
-Site Reliability Engineer at The Home Depot (Home Services), coming off ~2 years building Go payment-authorization services on distributed SQL. GCP-certified. OpenTelemetry, Kubernetes, Terraform, distributed systems.
+I write Go and I care about payments and reliability. I spent four years on Enterprise Payments at The Home Depot (first as a Daugherty contractor, then as an employee), building Go card-authorization services on CockroachDB. Since March 2026 I've been a Site Reliability Engineer on Home Services: SLOs, telemetry, alert quality, and release governance.
 
-**Tampa Bay** · Go · GCP · Kubernetes · Terraform · OpenTelemetry
+GCP Professional Cloud Architect. Tampa Bay, remote.
 
----
-
-### Active repos
-
-[**lgportfolio**](https://github.com/menezmethod/lgportfolio) — Portfolio site (gimenez.dev) with AI chat, telemetry, and observability dashboards. Next.js 16, Go proxies, self-hosted on a Pi 5.
-
-[**saucerjam**](https://github.com/menezmethod/saucerjam) — Free browser arena combat: server-authoritative multiplayer (fixed-step simulation, one-tap invite links, reconnect recovery), Three.js/WebGL client, Node backend, full CI. Play at [saucerjam.com](https://saucerjam.com) — or start an arena and [send me the invite](https://saucerjam.com/?host=1).
-
-[**inferencia**](https://github.com/menezmethod/inferencia) — Go-based LLM router that proxies chat, embeddings, and TTS to multiple backends. Capability-based routing, streaming, self-hosted on a Pi 5.
-
-[**openclaw-cursor**](https://github.com/menezmethod/openclaw-cursor) — HTTP proxy bridging OpenClaw to Cursor Pro models. Single static Go binary.
+**Go** · CockroachDB · GCP · Kubernetes · Terraform · OpenTelemetry · Prometheus · Grafana
 
 ---
 
-[github.com/menezmethod](https://github.com/menezmethod)
+### Projects
+
+[**lgportfolio**](https://github.com/menezmethod/lgportfolio): my portfolio site ([gimenez.dev](https://gimenez.dev)) with an AI chat and a live observability dashboard. Next.js, hosted on a Raspberry Pi 5 with Coolify.
+
+[**inferencia**](https://github.com/menezmethod/inferencia): a Go gateway that puts an OpenAI-compatible API in front of self-hosted LLM and TTS backends. Capability-based routing, API-key auth, rate limiting, Prometheus metrics.
+
+[**openclaw-cursor**](https://github.com/menezmethod/openclaw-cursor): an unofficial Go proxy that lets OpenClaw use Cursor models through the `cursor-agent` CLI.
+
+[**meshyants**](https://github.com/menezmethod/meshyants): a research prototype asking whether decentralized, pheromone-style agent coordination can beat simple orchestration. No published results yet.
+
+**SaucerJam** is a browser arena combat game (server-authoritative multiplayer, Three.js client, Node backend). Launching soon.
+
+I use AI coding assistants for a lot of this work, and I review and test what they write.
+
+---
+
+[gimenez.dev](https://gimenez.dev) · [LinkedIn](https://linkedin.com/in/gimenezdev)
