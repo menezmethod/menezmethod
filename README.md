@@ -1,22 +1,23 @@
 ## Luis Gimenez
 
-Site Reliability Engineer at The Home Depot (Home Services), coming off ~2 years building Go payment-authorization services on distributed SQL. GCP-certified. OpenTelemetry, Kubernetes, Terraform, distributed systems.
+Site Reliability Engineer at The Home Depot (Home Services). Before that, four years on the payments platform: Go card-authorization services on CockroachDB, card-broker routing, and a centralized gift-card API, with on-call.
 
-**Tampa Bay** · Go · GCP · Kubernetes · Terraform · OpenTelemetry
+Google Cloud Professional Cloud Architect · Go · Python · GCP · Kubernetes · Terraform · OpenTelemetry
 
----
-
-### Active repos
-
-
-[**saucerjam**](https://github.com/menezmethod/saucerjam) — Free browser arena combat: server-authoritative multiplayer (fixed-step simulation, one-tap invite links, reconnect recovery), Three.js/WebGL client, Node backend, full CI. Play at [saucerjam.com](https://saucerjam.com) — or start an arena and [send me the invite](https://saucerjam.com/?host=1).
-
-[**inferencia**](https://github.com/menezmethod/inferencia) — Go-based LLM router that proxies chat, embeddings, and TTS to multiple backends. Capability-based routing, streaming, self-hosted on a Pi 5.
-
-[**openclaw-cursor**](https://github.com/menezmethod/openclaw-cursor) — HTTP proxy bridging OpenClaw to Cursor Pro models. Single static Go binary.
-
-[**lgportfolio**](https://github.com/menezmethod/lgportfolio) — Portfolio site (gimenez.dev) with AI chat, telemetry, and observability dashboards. Next.js 16, Go proxies, self-hosted on a Pi 5.
+**Tampa Bay, FL (remote)** · [gimenez.dev](https://gimenez.dev) · [LinkedIn](https://www.linkedin.com/in/gimenezdev) · [Resume (PDF)](https://gimenez.dev/Luis-Gimenez-Resume.pdf)
 
 ---
 
-[github.com/menezmethod](https://github.com/menezmethod)
+### Active work
+
+[**inferencia**](https://github.com/menezmethod/inferencia) — OpenAI-compatible Go gateway for self-hosted LLM and TTS backends: capability routing, API-key auth, rate limiting, streaming, Prometheus metrics.
+
+[**lgportfolio**](https://github.com/menezmethod/lgportfolio) — The code behind [gimenez.dev](https://gimenez.dev): Next.js 16 with a RAG chat and a live War Room. Coolify behind Cloudflare, Vectorize + Workers AI, with a Terraform/Cloud Run path kept as rollback.
+
+[**ref_pg**](https://github.com/menezmethod/ref_pg) — A reference URL shortener where Postgres is the app: PostgREST API, OpenResty redirects, row-level security.
+
+[**openclaw-cursor**](https://github.com/menezmethod/openclaw-cursor) — Unofficial HTTP proxy that lets OpenClaw use Cursor models through the cursor-agent CLI. OpenAI-compatible API with SSE streaming, single static Go binary.
+
+[**PetFeederESP**](https://github.com/menezmethod/PetFeederESP) + [**pet_feeder_esp_ui**](https://github.com/menezmethod/pet_feeder_esp_ui) — ESP32 pet feeder firmware (BLE Wi-Fi provisioning, MQTT over TLS, OTA) and its Flutter companion app.
+
+**SaucerJam** — Browser multiplayer arena game: server-authoritative 60 Hz simulation, one-tap invite links, reconnect recovery, Three.js client, Node backend. Code is private; play at [saucerjam.com](https://saucerjam.com).
